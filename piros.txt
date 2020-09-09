@@ -1,1 +1,2 @@
-piros alma 
+"piros alma" 
+piros labda
